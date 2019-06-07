@@ -17,5 +17,7 @@ In the Colab notebook, you can find the command to download the files at the top
 
 ```bash
 !wget https://raw.githubusercontent.com/rish-16/BBCS-ML-Winpetition/master/HANDS_ON.txt
-!wget
+!wget https://raw.githubusercontent.com/rish-16/BBCS-ML-Winpetition/master/TASK1_DATASET.txt
+!wget https://raw.githubusercontent.com/rish-16/BBCS-ML-Winpetition/master/TASK2_DATASET.txt
+!wget https://raw.githubusercontent.com/rish-16/BBCS-ML-Winpetition/master/TASK3_DATASET.txt
 ```
