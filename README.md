@@ -26,7 +26,7 @@ In the Colab notebook, you can find the command to download the files at the top
 
 ## Resources
 
-You can find the slides, code and reference material her:
+You can find the slides, code and reference material here:
 
 | Resource            | Link                                 |
 | ------------------- | ------------------------------------ |
